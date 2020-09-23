@@ -40,8 +40,8 @@
 <br />
 
 ### » I'm listening to:
-<a href="https://natemoo-re-pied.vercel.app/now-playing?open">
-    <img src="https://natemoo-re-pied.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+<a href="https://spotify.ajm.codes/now-playing?open">
+    <img src="https://spotify.ajm.codes/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
 [website]: https://www.ajm.codes
