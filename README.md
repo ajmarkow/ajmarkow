@@ -44,13 +44,13 @@
     <img src="https://spotify.ajm.codes/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
-[website]: https://www.ajm.codes
-[twitter]: https://twitter.com/ajmcodes
-[linkedin]: https://linkedin.com/in/ajmarkow
-[devcommunity]: https://dev.to/ajmarkow
-[spotify]: https://open.spotify.com/user/123329384
-[keybase]: https://keybase.io/ajmarkow
-[aboutdotme]: https://about.me/ajmarkow
-[telegram]: https://t.me/ajmcodes
-[fitbit]: https://www.fitbit.com/user/32C8F2
-[hackerrank]:https://www.hackerrank.com/alexanderjmarkow?hr_r=1
+[website]: https://l.ajm.codes/main
+[twitter]: https://l.ajm.codes/tweets
+[linkedin]: https://l.ajm.codes/linkedin
+[devcommunity]: https://l.ajm.codes/devto
+[spotify]: https://l.ajm.codes/spotify
+[keybase]: https://l.ajm.codes/keybase
+[aboutdotme]: https://l.ajm.codes/aboutme
+[telegram]: https://l.ajm.codes/telegram
+[fitbit]: https://l.ajm.codes/fitbit
+[hackerrank]:https://l.ajm.codes/hackerrank
