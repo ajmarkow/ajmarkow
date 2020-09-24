@@ -1,5 +1,6 @@
-## » Enthusiastic web development student. <br /> Learning JavaScript, Node.js, and Ruby on Rails.
-
+## » Enthusiastic web development student. » Learning JavaScript, Node.js, and Ruby on Rails.
+<HR WIDTH="70%">
+    
 ### » Connect with me
 [<img align="left" alt="About.me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/about-dot-me.svg" />][aboutdotme]
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
