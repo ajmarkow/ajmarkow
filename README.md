@@ -38,6 +38,8 @@
 
 [![AJ Markow's Github Stats](https://github-readme-stats.vercel.app/api?username=ajmarkow)](https://github.com/anuraghazra/github-readme-stats)
 <br />
+[![AJ Markow's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ajm)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### » I'm listening to:
 <a href="https://spotify.ajm.codes/now-playing?open">
