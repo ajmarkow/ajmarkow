@@ -34,7 +34,7 @@
 <br />
 <br />
 
-<HR WIDTH="50%">
+<HR WIDTH="70%">
 
 [![AJ Markow's Github Stats](https://github-readme-stats.vercel.app/api?username=ajmarkow)](https://github.com/anuraghazra/github-readme-stats)
 <br />
