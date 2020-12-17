@@ -1,4 +1,5 @@
-## » Enthusiastic web development student. <br /> » Learning JavaScript, Node.js, and Ruby on Rails.
+## » Enthusiastic Ruby on Rails & JavaScript Developer. <br /> » Learning React.
+## » Website at <a href='https://ajm.codes'>www.ajm.codes</a>
 
 ### » Connect with me
 [<img align="left" alt="About.me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/about-dot-me.svg" />][aboutdotme]
