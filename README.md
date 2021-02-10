@@ -1,4 +1,4 @@
-## » Enthusiastic Ruby on Rails & JavaScript Developer. <br /> » Learning React.
+## » Enthusiastic Ruby on Rails, JavaScript, & React Developer.
 ### » Website at <a href='https://ajm.codes'>www.ajm.codes</a>
 
 ### » Connect with me
