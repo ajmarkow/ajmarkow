@@ -43,12 +43,6 @@
 <br />
 [![AJ Markow's wakatime stats](https://stats.ajm.codes/api/wakatime?username=ajm)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### » I'm listening to:
-<a href="https://spotify.ajm.codes/now-playing?open">
-    <img src="https://spotify.ajm.codes/now-playing" width="256" height="64" alt="Now Playing">
-</a>
-
 [website]: https://l.ajm.codes/main
 [twitter]: https://l.ajm.codes/tweets
 [linkedin]: https://l.ajm.codes/linkedin
