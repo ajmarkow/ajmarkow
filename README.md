@@ -38,8 +38,6 @@
 <br />
 
 <HR WIDTH="70%">
-
-[![AJ Markow's Github Stats](https://stats.ajm.codes/api?username=ajmarkow)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![AJ Markow's wakatime stats](https://stats.ajm.codes/api/wakatime?username=ajm)](https://github.com/anuraghazra/github-readme-stats)
 
