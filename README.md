@@ -39,7 +39,7 @@
 
 <HR WIDTH="70%">
 <br />
-[![AJ Markow's wakatime stats](https://stats.ajm.codes/api/wakatime?username=ajm)](https://github.com/anuraghazra/github-readme-stats)
+[![AJ Markow's wakatime stats](https://stats.ajm.codes/api/wakatime?username=ajm)](https://github.com/anuraghazra/github-readme-stats)]
 
 [website]: https://l.ajm.codes/main
 [twitter]: https://l.ajm.codes/tweets
