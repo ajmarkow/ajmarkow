@@ -38,16 +38,14 @@
 <br />
 
 <HR WIDTH="70%">
-<br />
-[![AJ Markow's wakatime stats](https://stats.ajm.codes/api/wakatime?username=ajm)](https://github.com/anuraghazra/github-readme-stats)]
+
+[![AJ Markow's wakatime stats](https://stats.ajm.codes/api/wakatime?username=ajm)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [website]: https://l.ajm.codes/main
 [twitter]: https://l.ajm.codes/tweets
 [linkedin]: https://l.ajm.codes/linkedin
 [devcommunity]: https://l.ajm.codes/devto
-[spotify]: https://l.ajm.codes/spotify
-[keybase]: https://l.ajm.codes/keybase
 [aboutdotme]: https://l.ajm.codes/aboutme
 [telegram]: https://l.ajm.codes/telegram
-[fitbit]: https://l.ajm.codes/fitbit
 [hackerrank]:https://l.ajm.codes/hackerrank
