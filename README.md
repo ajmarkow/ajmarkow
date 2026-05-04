@@ -1,4 +1,5 @@
 ## »  Ruby on Rails, JavaScript, & React Developer. Support Engineer @ ReCharge.
+
 ### » Website at <a href='https://ajm.codes'>www.ajm.codes</a>
 
 ### » Connect with me
@@ -21,9 +22,6 @@
 <img align="left" alt="AWS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Docker" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
-<br />
-<br />
-
 [website]: https://l.ajm.codes/main
 [twitter]: https://l.ajm.codes/tweets
 [linkedin]: https://l.ajm.codes/linkedin
@@ -31,6 +29,7 @@
 [aboutdotme]: https://l.ajm.codes/aboutme
 [telegram]: https://l.ajm.codes/telegram
 [hackerrank]:https://l.ajm.codes/hackerrank
+<br />
 <br />
 
  ![My GitHub Stats](https://stats.ajm.codes/api?username=ajmarkow&show_icons=true&hide_rank=true&card_width=300) 
