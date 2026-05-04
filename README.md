@@ -31,7 +31,7 @@
 [aboutdotme]: https://l.ajm.codes/aboutme
 [telegram]: https://l.ajm.codes/telegram
 [hackerrank]:https://l.ajm.codes/hackerrank
-
+<br />
 
  ![My GitHub Stats](https://stats.ajm.codes/api?username=ajmarkow&show_icons=true&hide_rank=true&card_width=300) 
 
