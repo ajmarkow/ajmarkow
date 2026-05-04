@@ -35,7 +35,7 @@
 
 <HR WIDTH="70%">
 
-[![AJ Markow's Statistics](https://stats.ajm.codes/api?username=ajmarkow&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+![AJ Markow's Github Statistics](https://stats.ajm.codes/api?username=ajmarkow&show_icons=true&hide_rank=true)
 
 [website]: https://l.ajm.codes/main
 [twitter]: https://l.ajm.codes/tweets
