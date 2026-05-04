@@ -35,7 +35,9 @@
 
 <HR WIDTH="70%">
 
-![AJ Markow's Github Statistics](https://stats.ajm.codes/api?username=ajmarkow&show_icons=true&hide_rank=true)
+<picture>
+  <img src="https://stats.ajm.codes/api?username=ajmarkow&show_icons=true&hide_rank=true" alt="Description">
+</picture>
 
 [website]: https://l.ajm.codes/main
 [twitter]: https://l.ajm.codes/tweets
