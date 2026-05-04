@@ -39,6 +39,8 @@
   <img src="https://stats.ajm.codes/api?username=ajmarkow&show_icons=true&hide_rank=true" alt="Description">
 </picture>
 
+[![Readme Card](https://stats.ajm.codes/api/pin/?username=ajmarkow&repo=snippet_cli)](https://github.com/ajmarkow/snippet_cli)
+
 [website]: https://l.ajm.codes/main
 [twitter]: https://l.ajm.codes/tweets
 [linkedin]: https://l.ajm.codes/linkedin
