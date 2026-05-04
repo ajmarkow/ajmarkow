@@ -2,16 +2,16 @@
 
 ## » Ruby on Rails, JavaScript, & React Developer. Support Engineer @ ReCharge.
 
-### » Website at <a href="https://ajm.codes">www.ajm.codes</a>
+### Website at <a href="https://ajm.codes">www.ajm.codes</a>
 
-### » Connect with me
+### Connect with me
 
 [<img alt="Website" width="30px"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img alt="Dev.to" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][devcommunity]
 [<img alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-### » Languages + tools
+### Languages + tools
 
 <img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
