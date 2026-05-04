@@ -33,7 +33,7 @@
 [hackerrank]:https://l.ajm.codes/hackerrank
 
 
- ![My GitHub Stats](https://stats.ajm.codes/api?username=ajmarkow&show_icons=true&hide_rank=true&card_width=400) 
+ ![My GitHub Stats](https://stats.ajm.codes/api?username=ajmarkow&show_icons=true&hide_rank=true&card_width=300) 
 
 [website]: https://l.ajm.codes/main
 [twitter]: https://l.ajm.codes/tweets
