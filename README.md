@@ -47,13 +47,13 @@
     <img
         alt="My GitHub Stats"
         height="200"
-        src="https://stats.ajm.codes/api?username=ajmarkow&show_icons=true&hide_rank=true&card_width=200"
+        src="https://stats.ajm.codes/api?username=ajmarkow&show_icons=true&hide_rank=true&card_width=270"
     />
     <a href="https://github.com/ajmarkow/snippet_cli" style="display: flex; align-items: center; padding-top: 0px;">
         <img
             alt="Snippet CLI Repository"
             height="200"
-            src="https://stats.ajm.codes/api/pin/?username=ajmarkow&repo=snippet_cli&card_width=200"
+            src="https://stats.ajm.codes/api/pin/?username=ajmarkow&repo=snippet_cli&card_width=270"
         />
     </a>
 </div>
