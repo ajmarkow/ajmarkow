@@ -32,10 +32,8 @@
 [telegram]: https://l.ajm.codes/telegram
 [hackerrank]:https://l.ajm.codes/hackerrank
 
-| Stats | My favorite repository |
-| --- | --- |
-| ![My GitHub Stats](https://stats.ajm.codes/api?username=ajmarkow&show_icons=true&hide_rank=true&card_width=270) | [![Snippet CLI Repository](https://stats.ajm.codes/api/pin/?username=ajmarkow&repo=snippet_cli&card_width=270)](https://github.com/ajmarkow/snippet_cli) |
 
+ ![My GitHub Stats](https://stats.ajm.codes/api?username=ajmarkow&show_icons=true&hide_rank=true&card_width=400) 
 
 [website]: https://l.ajm.codes/main
 [twitter]: https://l.ajm.codes/tweets
