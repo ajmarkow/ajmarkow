@@ -35,11 +35,26 @@
 
 <HR WIDTH="70%">
 
-<picture>
-  <img src="https://stats.ajm.codes/api?username=ajmarkow&show_icons=true&hide_rank=true" alt="Description">
-</picture>
-
-[![Readme Card](https://stats.ajm.codes/api/pin/?username=ajmarkow&repo=snippet_cli)](https://github.com/ajmarkow/snippet_cli)
+<table style="border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
+    <tr>
+        <td style="border: none; padding: 0 12px 0 0;">
+            <img
+                src="https://stats.ajm.codes/api?username=ajmarkow&show_icons=true&hide_rank=true"
+                alt="My GitHub Stats"
+                height="180"
+            />
+        </td>
+        <td style="border: none; padding: 0;">
+            <a href="https://github.com/ajmarkow/snippet_cli">
+                <img
+                    src="https://stats.ajm.codes/api/pin/?username=ajmarkow&repo=snippet_cli"
+                    alt="Pin for Snippet CLI Repository"
+                    height="180"
+                />
+            </a>
+        </td>
+    </tr>
+</table>
 
 [website]: https://l.ajm.codes/main
 [twitter]: https://l.ajm.codes/tweets
