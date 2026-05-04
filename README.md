@@ -33,8 +33,6 @@
 <br />
 <br />
 
-<HR WIDTH="70%">
-
 [website]: https://l.ajm.codes/main
 [twitter]: https://l.ajm.codes/tweets
 [linkedin]: https://l.ajm.codes/linkedin
@@ -43,22 +41,9 @@
 [telegram]: https://l.ajm.codes/telegram
 [hackerrank]:https://l.ajm.codes/hackerrank
 
-<div align="left" style="display: flex; align-items: center; justify-content: flex-start; gap: 12px; flex-wrap: wrap;">
-    <img
-        alt="My GitHub Stats"
-        height="200"
-        src="https://stats.ajm.codes/api?username=ajmarkow&show_icons=true&hide_rank=true&card_width=270"
-    />
-    <a href="https://github.com/ajmarkow/snippet_cli" style="display: flex; align-items: center; padding-top: 0px;">
-        <img
-            alt="Snippet CLI Repository"
-            height="200"
-            src="https://stats.ajm.codes/api/pin/?username=ajmarkow&repo=snippet_cli&card_width=270"
-        />
-    </a>
-</div>
-
-
+| Stats | My favorite repository |
+| --- | --- |
+| ![My GitHub Stats](https://stats.ajm.codes/api?username=ajmarkow&show_icons=true&hide_rank=true&card_width=270) | [![Snippet CLI Repository](https://stats.ajm.codes/api/pin/?username=ajmarkow&repo=snippet_cli&card_width=270)](https://github.com/ajmarkow/snippet_cli) |
 
 
 [website]: https://l.ajm.codes/main
